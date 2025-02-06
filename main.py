@@ -9,6 +9,7 @@ face_mesh = mp_face_mesh.FaceMesh(
     min_tracking_confidence=0.5,
     max_num_faces=1
 )
+print('Venkatesh')
 
 # Constants
 EYE_CLOSED_THRESHOLD = 0.2  # Adjust based on testing
