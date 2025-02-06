@@ -10,6 +10,7 @@ face_mesh = mp_face_mesh.FaceMesh(
     max_num_faces=1
 )
 print('Venkatesh')
+print('Ramu')
 
 # Constants
 EYE_CLOSED_THRESHOLD = 0.2  # Adjust based on testing
